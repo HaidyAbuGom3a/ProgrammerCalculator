@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ProgrammerCalculator</string>
+    <string name="blank" />
+    <string name="binary">2</string>
+    <string name="oct">8</string>
+    <string name="hex">16</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="toastMsg">The number is too large, please try another one</string>
+    <string name="enter_a_number">Please enter a number</string>
+    <string name="equals">=</string>
+    <string name="clear">Cl</string>
+    <string name="hex_btn">Hex</string>
+    <string name="decimal_btn">decimal</string>
+    <string name="octal_btn">octal</string>
+    <string name="binary_btn">binary</string>
+
+
+</resources>

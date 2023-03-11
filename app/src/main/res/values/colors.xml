@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brand">#FF17171F</color>
+    <color name="brand_variant">#FF343434</color>
+    <color name="light_blue">#FF6B72CA</color>
+    <color name="clear_btn_dark">#896970C8</color>
+    <color name="result_btn_dark">#89FFFFFF</color>
+</resources>
