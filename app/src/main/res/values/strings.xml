@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ProgrammerCalculator</string>
+    <string name="app_name">Programmer Calculator</string>
     <string name="blank" />
     <string name="binary">2</string>
     <string name="oct">8</string>

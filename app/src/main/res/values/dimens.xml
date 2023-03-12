@@ -15,4 +15,5 @@
     <dimen name="zero">0dp</dimen>
     <dimen name="radius_large">60dp</dimen>
     <dimen name="padding_regular">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
 </resources>

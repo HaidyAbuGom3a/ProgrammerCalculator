@@ -124,10 +124,16 @@ class MainActivity : AppCompatActivity() {
                     showAllNumberSystemsValues(binary,hex,octal,decimal)
                 }
                 catch(e:Exception){
-                    Toast.makeText(this,getString(R.string.toastMsg),Toast.LENGTH_LONG).show()
+                    Toast.makeText(this,
+                        getString(R.string.toastMsg),
+                        Toast.LENGTH_LONG)
+                        .show()
                 }
             }else{
-                Toast.makeText(this,getString(R.string.enter_a_number),Toast.LENGTH_SHORT).show()
+                Toast.makeText(this,
+                    getString(R.string.enter_a_number),
+                    Toast.LENGTH_SHORT)
+                    .show()
             }
 
         }
